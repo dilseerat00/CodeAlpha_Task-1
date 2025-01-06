@@ -45,16 +45,6 @@ The second part of this project is building a basic voice assistant using Python
    - `os` - For opening applications and files.
    - `wikipedia` - For fetching information from Wikipedia.
 
-## Installation
-
-To run these scripts, ensure you have Python 3.x installed along with the necessary libraries. Use the following steps to set up the project:
-
-Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/fibonacci-voice-assistant.git
-   cd fibonacci-voice-assistant
-```
 ## Contact Information
 
 - **Author**: Dilseerat 
